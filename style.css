@@ -1,1 +1,26 @@
+body {
+    background: rgb(15, 140, 182);
+}
+/* Select by TAG type */
+p {
+    color: orange;
+}
+/* Select by ID name (unique) */
+#nick {
+    background: grey;
+}
+/* Select by class name (shared styles) */
+.uniform {
+    color: maroon;
+}
+h1 {
+    color: red;
+    font-weight: 200;
+    font-style: italic;
+    font-size: 50px;
+    font-family:Impact;
+    text-align-last: center
+
+}
+
 
